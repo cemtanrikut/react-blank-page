@@ -1,3 +1,4 @@
+import React from 'react';
 import logo from './logo_profile.PNG';
 import './App.css';
 import instagram from './pngInstagram.png';
